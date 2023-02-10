@@ -41,7 +41,7 @@ Rectangle {
             Text {
                 id: columnAtop
                 text: qsTr("A")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -60,7 +60,7 @@ Rectangle {
             Text {
                 id: columnBtop
                 text: qsTr("B")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -78,7 +78,7 @@ Rectangle {
             Text {
                 id: columnCtop
                 text: qsTr("C")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -96,7 +96,7 @@ Rectangle {
             Text {
                 id: columnDtop
                 text: qsTr("D")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -114,7 +114,7 @@ Rectangle {
             Text {
                 id: columnEtop
                 text: qsTr("E")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -132,7 +132,7 @@ Rectangle {
             Text {
                 id: columnFtop
                 text: qsTr("F")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -150,7 +150,7 @@ Rectangle {
             Text {
                 id: columnGtop
                 text: qsTr("G")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -168,7 +168,7 @@ Rectangle {
             Text {
                 id: columnHtop
                 text: qsTr("H")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -193,7 +193,7 @@ Rectangle {
             Text {
                 id: row8left
                 text: qsTr("8")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -339,7 +339,7 @@ Rectangle {
             Text {
                 id: row8right
                 text: qsTr("8")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -357,7 +357,7 @@ Rectangle {
             Text {
                 id: row7left
                 text: qsTr("7")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -503,7 +503,7 @@ Rectangle {
             Text {
                 id: row7right
                 text: qsTr("7")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -522,7 +522,7 @@ Rectangle {
             Text {
                 id: row6left
                 text: qsTr("6")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -668,7 +668,7 @@ Rectangle {
             Text {
                 id: row6right
                 text: qsTr("6")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -686,7 +686,7 @@ Rectangle {
             Text {
                 id: row5left
                 text: qsTr("5")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -832,7 +832,7 @@ Rectangle {
             Text {
                 id: row5right
                 text: qsTr("5")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -850,7 +850,7 @@ Rectangle {
             Text {
                 id: row4left
                 text: qsTr("4")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -996,7 +996,7 @@ Rectangle {
             Text {
                 id: row4right
                 text: qsTr("4")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -1014,7 +1014,7 @@ Rectangle {
             Text {
                 id: row3left
                 text: qsTr("3")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -1160,7 +1160,7 @@ Rectangle {
             Text {
                 id: row3right
                 text: qsTr("3")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -1178,7 +1178,7 @@ Rectangle {
             Text {
                 id: row2left
                 text: qsTr("2")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -1324,7 +1324,7 @@ Rectangle {
             Text {
                 id: row2right
                 text: qsTr("2")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -1342,7 +1342,7 @@ Rectangle {
             Text {
                 id: row1left
                 text: qsTr("1")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -1488,7 +1488,7 @@ Rectangle {
             Text {
                 id: row1right
                 text: qsTr("1")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -1513,7 +1513,7 @@ Rectangle {
             Text {
                 id: columnAbot
                 text: qsTr("A")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -1531,7 +1531,7 @@ Rectangle {
             Text {
                 id: columnBbot
                 text: qsTr("B")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -1549,7 +1549,7 @@ Rectangle {
             Text {
                 id: columnCbot
                 text: qsTr("C")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -1567,7 +1567,7 @@ Rectangle {
             Text {
                 id: columnDbot
                 text: qsTr("D")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -1585,7 +1585,7 @@ Rectangle {
             Text {
                 id: columnEbot
                 text: qsTr("E")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -1603,7 +1603,7 @@ Rectangle {
             Text {
                 id: columnFbot
                 text: qsTr("F")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -1621,7 +1621,7 @@ Rectangle {
             Text {
                 id: columnGbot
                 text: qsTr("G")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -1639,7 +1639,7 @@ Rectangle {
             Text {
                 id: columnHbot
                 text: qsTr("H")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
