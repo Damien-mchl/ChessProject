@@ -222,14 +222,14 @@ Rectangle {
             id: cellB8
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageB8
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -238,14 +238,14 @@ z: 1
             id: cellC8
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageC8
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -254,14 +254,14 @@ z: 1
             id: cellD8
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageD8
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -270,14 +270,14 @@ z: 1
             id: cellE8
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageE8
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -286,14 +286,14 @@ z: 1
             id: cellF8
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageF8
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -302,14 +302,14 @@ z: 1
             id: cellG8
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageG8
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -318,14 +318,14 @@ z: 1
             id: cellH8
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageH8
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -370,14 +370,14 @@ z: 1
             id: cellA7
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageA7
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -386,14 +386,14 @@ z: 1
             id: cellB7
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageB7
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -402,14 +402,14 @@ z: 1
             id: cellC7
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageC7
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -418,14 +418,14 @@ z: 1
             id: cellD7
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageD7
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -434,14 +434,14 @@ z: 1
             id: cellE7
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageE7
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -450,14 +450,14 @@ z: 1
             id: cellF7
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageF7
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -466,14 +466,14 @@ z: 1
             id: cellG7
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageG7
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -482,14 +482,14 @@ z: 1
             id: cellH7
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageH7
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -535,14 +535,14 @@ z: 1
             id: cellA6
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageA6
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -551,14 +551,14 @@ z: 1
             id: cellB6
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageB6
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -567,14 +567,14 @@ z: 1
             id: cellC6
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageC6
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -583,14 +583,14 @@ z: 1
             id: cellD6
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageD6
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -599,14 +599,14 @@ z: 1
             id: cellE6
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageE6
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -615,14 +615,14 @@ z: 1
             id: cellF6
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageF6
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -631,14 +631,14 @@ z: 1
             id: cellG6
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageG6
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -647,14 +647,14 @@ z: 1
             id: cellH6
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageH6
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -699,14 +699,14 @@ z: 1
             id: cellA5
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageA5
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -715,14 +715,14 @@ z: 1
             id: cellB5
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageB5
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -731,14 +731,14 @@ z: 1
             id: cellC5
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageC5
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -747,14 +747,14 @@ z: 1
             id: cellD5
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageD5
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -763,14 +763,14 @@ z: 1
             id: cellE5
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageE5
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -779,14 +779,14 @@ z: 1
             id: cellF5
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageF5
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -795,14 +795,14 @@ z: 1
             id: cellG5
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageG5
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -811,14 +811,14 @@ z: 1
             id: cellH5
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageH5
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -863,14 +863,14 @@ z: 1
             id: cellA4
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageA4
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -879,14 +879,14 @@ z: 1
             id: cellB4
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageB4
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -895,14 +895,14 @@ z: 1
             id: cellC4
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageC4
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -911,14 +911,14 @@ z: 1
             id: cellD4
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageD4
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -927,14 +927,14 @@ z: 1
             id: cellE4
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageE4
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -943,14 +943,14 @@ z: 1
             id: cellF4
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageF4
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -959,14 +959,14 @@ z: 1
             id: cellG4
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageG4
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -975,14 +975,14 @@ z: 1
             id: cellH4
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageH4
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1027,14 +1027,14 @@ z: 1
             id: cellA3
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageA3
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1043,14 +1043,14 @@ z: 1
             id: cellB3
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageB3
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1059,14 +1059,14 @@ z: 1
             id: cellC3
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageC3
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1075,13 +1075,14 @@ z: 1
             id: cellD3
             width: grid.width/grid.columns
             height: grid.height/grid.rows
+            color: "#00ffffff"
 
             Image {
                 id: imageD3
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1090,14 +1091,14 @@ z: 1
             id: cellE3
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageE3
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1106,14 +1107,14 @@ z: 1
             id: cellF3
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageF3
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1122,15 +1123,15 @@ z: 1
             id: cellG3
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageG3
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
-fillMode: Image.PreserveAspectFit
+                z: 1
+                fillMode: Image.PreserveAspectFit
             }
         }
 
@@ -1138,14 +1139,14 @@ fillMode: Image.PreserveAspectFit
             id: cellH3
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageH3
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1190,14 +1191,14 @@ z: 1
             id: cellA2
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageA2
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1206,14 +1207,14 @@ z: 1
             id: cellB2
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageB2
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1222,14 +1223,14 @@ z: 1
             id: cellC2
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageC2
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1238,14 +1239,14 @@ z: 1
             id: cellD2
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageD2
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1254,14 +1255,14 @@ z: 1
             id: cellE2
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageE2
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1270,14 +1271,14 @@ z: 1
             id: cellF2
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageF2
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1286,14 +1287,14 @@ z: 1
             id: cellG2
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageG2
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1302,14 +1303,14 @@ z: 1
             id: cellH2
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageH2
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1354,14 +1355,14 @@ z: 1
             id: cellA1
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageA1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1370,14 +1371,14 @@ z: 1
             id: cellB1
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageB1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1386,14 +1387,14 @@ z: 1
             id: cellC1
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageC1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1402,14 +1403,14 @@ z: 1
             id: cellD1
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageD1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1418,14 +1419,14 @@ z: 1
             id: cellE1
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageE1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1434,14 +1435,14 @@ z: 1
             id: cellF1
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageF1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1450,14 +1451,14 @@ z: 1
             id: cellG1
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageG1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1466,14 +1467,14 @@ z: 1
             id: cellH1
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageH1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
