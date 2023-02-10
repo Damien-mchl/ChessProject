@@ -206,7 +206,7 @@ Rectangle {
             id: cellA8
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
+            color: "#00ffffff"
 
             Image {
                 id: imageA8
@@ -1075,7 +1075,6 @@ z: 1
             id: cellD3
             width: grid.width/grid.columns
             height: grid.height/grid.rows
-            color: "#ffffff"
 
             Image {
                 id: imageD3
@@ -1131,7 +1130,7 @@ z: 1
                 height: parent.height
                 source: "images/bp.svg"
 z: 1
-                fillMode: Image.PreserveAspectFit
+fillMode: Image.PreserveAspectFit
             }
         }
 
@@ -1662,7 +1661,7 @@ z: 1
             width: grid.width / grid.columns * 8
             height: grid.height / grid.rows * 8
             source: "images/Chessboard480.svg"
-            z: 0
+            z: -1
             fillMode: Image.PreserveAspectFit
         }
     }
