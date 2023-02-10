@@ -40,12 +40,12 @@ Rectangle {
 
             Text {
                 id: text1
-                text: qsTr("Text")
                 font.pixelSize: 12
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 width: parent.width
                 height: parent.height
+                text: qsTr("Text")
             }
         }
 
@@ -193,59 +193,123 @@ Rectangle {
         }
 
         Rectangle {
-            id: rectangle11
+            id: cellA8
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageA8
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle12
+            id: cellB8
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageB8
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle13
+            id: cellC8
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageC8
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle14
+            id: cellD8
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageD8
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle15
+            id: cellE8
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageE8
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle16
+            id: cellF8
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageF8
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle17
+            id: cellG8
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageG8
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle18
+            id: cellH8
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageH8
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
@@ -283,59 +347,123 @@ Rectangle {
         }
 
         Rectangle {
-            id: rectangle21
+            id: cellA7
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageA7
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle22
+            id: cellB7
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageB7
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle23
+            id: cellC7
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageC7
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle24
+            id: cellD7
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageD7
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle25
+            id: cellE7
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageE7
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle26
+            id: cellF7
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageF7
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle27
+            id: cellG7
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageG7
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle28
+            id: cellH7
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageH7
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
@@ -373,59 +501,123 @@ Rectangle {
         }
 
         Rectangle {
-            id: rectangle31
+            id: cellA6
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageA6
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle32
+            id: cellB6
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageB6
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle33
+            id: cellC6
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageC6
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle34
+            id: cellD6
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageD6
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle35
+            id: cellE6
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageE6
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle36
+            id: cellF6
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageF6
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle37
+            id: cellG6
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageG6
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle38
+            id: cellH6
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageH6
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
@@ -463,59 +655,123 @@ Rectangle {
         }
 
         Rectangle {
-            id: rectangle41
+            id: cellA5
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageA5
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle42
+            id: cellB5
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageB5
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle43
+            id: cellC5
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageC5
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle44
+            id: cellD5
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageD5
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle45
+            id: cellE5
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageE5
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle46
+            id: cellF5
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageF5
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle47
+            id: cellG5
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageG5
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle48
+            id: cellH5
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageH5
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
@@ -553,59 +809,123 @@ Rectangle {
         }
 
         Rectangle {
-            id: rectangle51
+            id: cellA4
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageA4
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle52
+            id: cellB4
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageB4
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle53
+            id: cellC4
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageC4
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle54
+            id: cellD4
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageD4
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle55
+            id: cellE4
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageE4
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle56
+            id: cellF4
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageF4
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle57
+            id: cellG4
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageG4
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle58
+            id: cellH4
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageH4
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
@@ -643,59 +963,123 @@ Rectangle {
         }
 
         Rectangle {
-            id: rectangle61
+            id: cellA3
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageA3
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle62
+            id: cellB3
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageB3
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle63
+            id: cellC3
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageC3
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle64
+            id: cellD3
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageD3
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle65
+            id: cellE3
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageE3
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle66
+            id: cellF3
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageF3
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle67
+            id: cellG3
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageG3
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle68
+            id: cellH3
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageH3
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
@@ -733,59 +1117,123 @@ Rectangle {
         }
 
         Rectangle {
-            id: rectangle71
+            id: cellA2
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageA2
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle72
+            id: cellB2
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageB2
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle73
+            id: cellC2
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageC2
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle74
+            id: cellD2
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageD2
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle75
+            id: cellE2
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageE2
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle76
+            id: cellF2
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageF2
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle77
+            id: cellG2
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageG2
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle78
+            id: cellH2
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageH2
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
@@ -823,59 +1271,123 @@ Rectangle {
         }
 
         Rectangle {
-            id: rectangle81
+            id: cellA1
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageA1
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle82
+            id: cellB1
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageB1
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle83
+            id: cellC1
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageC1
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle84
+            id: cellD1
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageD1
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle85
+            id: cellE1
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageE1
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle86
+            id: cellF1
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageF1
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle87
+            id: cellG1
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageG1
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
-            id: rectangle88
+            id: cellH1
             width: grid.width/grid.columns
             height: grid.height/grid.rows
             color: "#ffffff"
+
+            Image {
+                id: imageH1
+                width: parent.width
+                height: parent.height
+                source: "images/bp.svg"
+                fillMode: Image.PreserveAspectFit
+            }
         }
 
         Rectangle {
