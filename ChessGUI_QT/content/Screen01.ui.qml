@@ -203,6 +203,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -218,6 +219,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -233,6 +235,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -248,6 +251,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -263,6 +267,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -278,6 +283,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -293,6 +299,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -308,6 +315,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -357,6 +365,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -372,6 +381,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -387,6 +397,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -402,6 +413,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -417,6 +429,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -432,6 +445,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -447,6 +461,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -462,6 +477,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -511,6 +527,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -526,6 +543,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -541,6 +559,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -556,6 +575,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -571,6 +591,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -586,6 +607,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -601,6 +623,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -616,6 +639,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -665,6 +689,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -680,6 +705,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -695,6 +721,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -710,6 +737,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -725,6 +753,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -740,6 +769,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -755,6 +785,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -770,6 +801,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -819,6 +851,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -834,6 +867,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -849,6 +883,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -864,6 +899,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -879,6 +915,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -894,6 +931,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -909,6 +947,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -924,6 +963,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -973,6 +1013,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -988,6 +1029,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1003,6 +1045,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1018,6 +1061,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1033,6 +1077,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1048,6 +1093,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1063,6 +1109,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1078,6 +1125,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1127,6 +1175,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1142,6 +1191,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1157,6 +1207,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1172,6 +1223,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1187,6 +1239,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1202,6 +1255,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1217,6 +1271,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1232,6 +1287,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1281,6 +1337,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1296,6 +1353,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1311,6 +1369,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1326,6 +1385,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1341,6 +1401,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1356,6 +1417,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1371,6 +1433,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1386,6 +1449,7 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
+z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
