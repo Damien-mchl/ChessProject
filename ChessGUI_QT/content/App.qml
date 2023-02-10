@@ -3,14 +3,14 @@
 
 import QtQuick 6.2
 import QtQuick.Window 6.2
-import UntitledProject
+import ChessGUI_QT
 
 Window {
     width: mainScreen.width
     height: mainScreen.height
 
     visible: true
-    title: "UntitledProject"
+    title: "ChessGUI_QT"
 
     Screen01 {
         id: mainScreen

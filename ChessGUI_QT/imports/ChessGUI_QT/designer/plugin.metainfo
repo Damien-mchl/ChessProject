@@ -1,6 +1,6 @@
 MetaInfo {
     Type {
-        name: "UntitledProject.EventListSimulator"
+        name: "ChessGUI_QT.EventListSimulator"
         icon: ":/qtquickplugin/images/item-icon16.png"
 
         Hints {

@@ -6,4 +6,4 @@
 #include <QtQml/qqmlextensionplugin.h>
 
 Q_IMPORT_QML_PLUGIN(contentPlugin)
-Q_IMPORT_QML_PLUGIN(UntitledProjectPlugin)
+Q_IMPORT_QML_PLUGIN(ChessGUI_QTPlugin)

@@ -84,7 +84,7 @@ Project {
     importPaths: [ "imports", "asset_imports" ]
 
     /* Required for deployment */
-    targetDirectory: "/opt/UntitledProject"
+    targetDirectory: "/opt/ChessGUI_QT"
 
     qdsVersion: "3.9"
 

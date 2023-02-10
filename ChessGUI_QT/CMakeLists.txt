@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.21.1)
 
 set(BUILD_QDS_COMPONENTS ON CACHE BOOL "Build design studio components")
 
-project(UntitledProjectApp LANGUAGES CXX)
+project(ChessGUI_QTApp LANGUAGES CXX)
 
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
 set(CMAKE_AUTOMOC ON)
