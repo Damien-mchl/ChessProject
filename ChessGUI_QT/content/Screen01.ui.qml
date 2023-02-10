@@ -41,9 +41,10 @@ Rectangle {
             Text {
                 id: columnAtop
                 text: qsTr("A")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
+                font.styleName: "Normal"
                 font.family: "Arial"
                 width: parent.width
                 height: parent.height
@@ -60,9 +61,10 @@ Rectangle {
             Text {
                 id: columnBtop
                 text: qsTr("B")
-                font.pixelSize: 12
+                font.pixelSize: 15
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
+                font.styleName: "Normal"
                 font.family: "Arial"
                 width: parent.width
                 height: parent.height
@@ -78,7 +80,7 @@ Rectangle {
             Text {
                 id: columnCtop
                 text: qsTr("C")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -96,7 +98,7 @@ Rectangle {
             Text {
                 id: columnDtop
                 text: qsTr("D")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -114,7 +116,7 @@ Rectangle {
             Text {
                 id: columnEtop
                 text: qsTr("E")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -132,7 +134,7 @@ Rectangle {
             Text {
                 id: columnFtop
                 text: qsTr("F")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -150,7 +152,7 @@ Rectangle {
             Text {
                 id: columnGtop
                 text: qsTr("G")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -168,7 +170,7 @@ Rectangle {
             Text {
                 id: columnHtop
                 text: qsTr("H")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -193,7 +195,7 @@ Rectangle {
             Text {
                 id: row8left
                 text: qsTr("8")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -204,8 +206,8 @@ Rectangle {
 
         Rectangle {
             id: cellA8
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#00ffffff"
 
             Image {
@@ -220,8 +222,8 @@ Rectangle {
 
         Rectangle {
             id: cellB8
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -229,15 +231,15 @@ Rectangle {
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellC8
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -245,15 +247,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellD8
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -261,15 +263,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellE8
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -277,15 +279,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellF8
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -293,15 +295,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellG8
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -309,15 +311,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellH8
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -325,7 +327,7 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -339,7 +341,7 @@ z: 1
             Text {
                 id: row8right
                 text: qsTr("8")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -357,7 +359,7 @@ z: 1
             Text {
                 id: row7left
                 text: qsTr("7")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -368,8 +370,8 @@ z: 1
 
         Rectangle {
             id: cellA7
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -377,15 +379,16 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                cache: true
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellB7
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -393,15 +396,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellC7
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -409,15 +412,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellD7
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -425,15 +428,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellE7
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -441,15 +444,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellF7
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -457,15 +460,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellG7
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -473,15 +476,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellH7
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -489,7 +492,7 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -503,7 +506,7 @@ z: 1
             Text {
                 id: row7right
                 text: qsTr("7")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -522,7 +525,7 @@ z: 1
             Text {
                 id: row6left
                 text: qsTr("6")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -533,8 +536,8 @@ z: 1
 
         Rectangle {
             id: cellA6
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -542,15 +545,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellB6
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -558,15 +561,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellC6
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -574,15 +577,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellD6
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -590,15 +593,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellE6
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -606,15 +609,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellF6
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -622,15 +625,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellG6
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -638,15 +641,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellH6
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -654,7 +657,7 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -668,7 +671,7 @@ z: 1
             Text {
                 id: row6right
                 text: qsTr("6")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -686,7 +689,7 @@ z: 1
             Text {
                 id: row5left
                 text: qsTr("5")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -697,8 +700,8 @@ z: 1
 
         Rectangle {
             id: cellA5
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -706,15 +709,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellB5
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -722,15 +725,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellC5
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -738,15 +741,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellD5
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -754,15 +757,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellE5
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -770,15 +773,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellF5
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -786,15 +789,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellG5
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -802,15 +805,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellH5
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -818,7 +821,7 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -832,7 +835,7 @@ z: 1
             Text {
                 id: row5right
                 text: qsTr("5")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -850,7 +853,7 @@ z: 1
             Text {
                 id: row4left
                 text: qsTr("4")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -861,8 +864,8 @@ z: 1
 
         Rectangle {
             id: cellA4
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -870,15 +873,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellB4
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -886,15 +889,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellC4
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -902,15 +905,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellD4
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -918,15 +921,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellE4
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -934,15 +937,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellF4
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -950,15 +953,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellG4
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -966,15 +969,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellH4
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -982,7 +985,7 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -996,7 +999,7 @@ z: 1
             Text {
                 id: row4right
                 text: qsTr("4")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -1014,7 +1017,7 @@ z: 1
             Text {
                 id: row3left
                 text: qsTr("3")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -1025,8 +1028,8 @@ z: 1
 
         Rectangle {
             id: cellA3
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -1034,15 +1037,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellB3
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -1050,15 +1053,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellC3
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -1066,30 +1069,30 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellD3
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
 
             Image {
                 id: imageD3
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellE3
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -1097,15 +1100,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellF3
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -1113,15 +1116,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellG3
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -1129,15 +1132,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
-fillMode: Image.PreserveAspectFit
+                z: 1
+                fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellH3
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -1145,7 +1148,7 @@ fillMode: Image.PreserveAspectFit
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1159,7 +1162,7 @@ z: 1
             Text {
                 id: row3right
                 text: qsTr("3")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -1177,7 +1180,7 @@ z: 1
             Text {
                 id: row2left
                 text: qsTr("2")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -1188,8 +1191,8 @@ z: 1
 
         Rectangle {
             id: cellA2
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -1197,15 +1200,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellB2
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -1213,15 +1216,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellC2
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -1229,15 +1232,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellD2
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -1245,15 +1248,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellE2
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -1261,15 +1264,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellF2
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -1277,15 +1280,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellG2
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -1293,15 +1296,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellH2
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -1309,7 +1312,7 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1323,7 +1326,7 @@ z: 1
             Text {
                 id: row2right
                 text: qsTr("2")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -1341,7 +1344,7 @@ z: 1
             Text {
                 id: row1left
                 text: qsTr("1")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -1352,8 +1355,8 @@ z: 1
 
         Rectangle {
             id: cellA1
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -1361,15 +1364,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellB1
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -1377,15 +1380,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellC1
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -1393,15 +1396,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellD1
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -1409,15 +1412,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellE1
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -1425,15 +1428,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellF1
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -1441,15 +1444,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellG1
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -1457,15 +1460,15 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
 
         Rectangle {
             id: cellH1
-            width: grid.width/grid.columns
-            height: grid.height/grid.rows
+            width: grid.width / grid.columns
+            height: grid.height / grid.rows
             color: "#ffffff"
 
             Image {
@@ -1473,7 +1476,7 @@ z: 1
                 width: parent.width
                 height: parent.height
                 source: "images/bp.svg"
-z: 1
+                z: 1
                 fillMode: Image.PreserveAspectFit
             }
         }
@@ -1487,7 +1490,7 @@ z: 1
             Text {
                 id: row1right
                 text: qsTr("1")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -1512,7 +1515,7 @@ z: 1
             Text {
                 id: columnAbot
                 text: qsTr("A")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -1530,7 +1533,7 @@ z: 1
             Text {
                 id: columnBbot
                 text: qsTr("B")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -1548,7 +1551,7 @@ z: 1
             Text {
                 id: columnCbot
                 text: qsTr("C")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -1566,7 +1569,7 @@ z: 1
             Text {
                 id: columnDbot
                 text: qsTr("D")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -1584,7 +1587,7 @@ z: 1
             Text {
                 id: columnEbot
                 text: qsTr("E")
-                font.pixelSize: 12
+                font.pixelSize: 15
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -1602,7 +1605,7 @@ z: 1
             Text {
                 id: columnFbot
                 text: qsTr("F")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -1620,7 +1623,7 @@ z: 1
             Text {
                 id: columnGbot
                 text: qsTr("G")
-                font.pixelSize: 12
+                font.pixelSize: 16
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
@@ -1638,7 +1641,7 @@ z: 1
             Text {
                 id: columnHbot
                 text: qsTr("H")
-                font.pixelSize: 12
+                font.pixelSize: 15
                 horizontalAlignment: Text.AlignHCenter
                 verticalAlignment: Text.AlignVCenter
                 font.family: "Arial"
